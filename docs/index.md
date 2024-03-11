@@ -98,6 +98,11 @@ base - urls
 ![urls](assets/img/urls.png)
 
 
+### Зафиксировать пакеты / зависимости 
+```
+pip freeze > requirements.txt
+```
+
 
 ---
 ## Commands

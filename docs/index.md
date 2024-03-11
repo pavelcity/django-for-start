@@ -93,6 +93,10 @@ news.apps.NewsConfig
 ```
 
 
+### В urls добавить новое приложение
+base - urls 
+![urls](assets/img/urls.png)
+
 
 
 ---
